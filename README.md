@@ -9,5 +9,4 @@ The website can be able to access products resource and have several functionali
 
 The adminstrator can login through the information below:
 -------
-Username: Grace
-Password: 1220
+Username: Grace    Password: 1220
